@@ -1,0 +1,570 @@
+1,ELK-A-1.1,1 Cm²den büyük,cm²,TL,1.69
+2,ELK-A-1.2,1 Cm²den küçük,cm²,TL,1.69
+3,ELK-A-1.3,Sıva Üstü/Sıva Altı Pvc Sigorta Kutusu 12-24 lü (Alev yaymayan HF),Ad.,TL,303.35
+4,ELK-A-1.4,Pano tehlike ikaz levlası 25x35 cm (Tedaş şartnamesine uygun),Ad.,TL,80.00
+5,ELK-B-1.1,1x20 A Pako şalter 0-1,Ad.,TL,97.90
+6,ELK-B-1.2,1x25 A Pako şalter 0-1,Ad.,TL,145.00
+7,ELK-B-1.3,1x40 A Pako şalter 0-1,Ad.,TL,184.80
+8,ELK-B-1.4,1x50 A Pako şalter 0-1,Ad.,TL,195.00
+9,ELK-B-1.5,3x20 A Pako şalter 0-1,Ad.,TL,179.58
+10,ELK-B-1.6,3x25 A Pako şalter 0-1,Ad.,TL,208.67
+11,ELK-B-1.7,3x40 A Pako şalter 0-1,Ad.,TL,245.00
+12,ELK-B-1.8,3x50 A Pako şalter 0-1,Ad.,TL,260.00
+13,ELK-B-1.9,3x63 A Pako şalter 0-1,Ad.,TL,284.00
+14,ELK-B-1.10,3x80 A Pako şalter 0-1,Ad.,TL,749.00
+15,ELK-B-1.11,3x100 A ve üzeri Pako şalter 0-1,Ad.,TL,"1,000.00"
+16,ELK-B-1.12,4x50 A Pako şalter 0-1,Ad.,TL,374.00
+17,ELK-B-1.13,4x63A Pako şalter 0-1,Ad.,TL,429.00
+18,ELK-B-1.14,4x80 A Pako şalter 0-1,Ad.,TL,539.00
+19,ELK-B-1.15,4x100 A ve üzeri Pako şalter 0-1,Ad.,TL,825.00
+20,ELK-B-1.16,4x50 A Pako şalter 0-1 Klitlenebilir tip,Ad.,TL,667.66
+21,ELK-B-1.17,4x63A Pako şalter 0-1 Kilitlenebilir tip,Ad.,TL,921.07
+22,ELK-B-1.18,4x80 A Pako şalter 0-1 Kilitlenebilir tip,Ad.,TL,"1,545.59"
+23,ELK-B-1.19,4x100 A ve üzeri Pako şalter 0-1 Kilitlenebilir tip,Ad.,TL,"1,894.13"
+24,ELK-B-1.20,1x20 A Pako şalter 1-0-2,Ad.,TL,115.50
+25,ELK-B-1.21,1x25 A Pako şalter 1-0-2,Ad.,TL,176.00
+26,ELK-B-1.22,1x40 A Pako şalter 1-0-2,Ad.,TL,254.00
+27,ELK-B-1.23,1x50 A Pako şalter 1-0-2,Ad.,TL,284.90
+28,ELK-B-1.24,3x20 A Pako şalter 1-0-2,Ad.,TL,250.00
+29,ELK-B-1.25,3x25 A Pako şalter 1-0-2,Ad.,TL,350.00
+30,ELK-B-1.26,3x40 A Pako şalter 1-0-2,Ad.,TL,510.06
+31,ELK-B-1.27,3x50 A Pako şalter 1-0-2,Ad.,TL,510.06
+32,ELK-B-2.1,"Kontaktör (9A) , 1 NO + 1 NC",Ad.,TL,373.90
+33,ELK-B-2.2,"Kontaktör (12A) , 1 NO + 1 NC",Ad.,TL,447.70
+34,ELK-B-2.3,"Kontaktör (16A) , 1 NO + 1 NC",Ad.,TL,495.00
+35,ELK-B-2.4,"Kontaktör (25A) , 1 NO + 1 NC",Ad.,TL,704.00
+36,ELK-B-2.5,"Kontaktör (32A) , 1 NO + 1 NC",Ad.,TL,970.00
+37,ELK-B-2.6,"Kontaktör (40A) , 1 NO + 1 NC",Ad.,TL,"1,120.00"
+38,ELK-B-2.7,"Kontaktör (63A) , 1 NO + 1 NC",Ad.,TL,"1,665.40"
+39,ELK-B-2.8,"Kontaktör (75A) , 1 NO + 1 NC",Ad.,TL,"1,853.00"
+40,ELK-B-2.9,"Kontaktör (85A) , 1 NO + 1 NC",Ad.,TL,"2,340.00"
+41,ELK-B-2.10,"Kontaktör (110A) , 1 NO + 1 NC",Ad.,TL,"3,511.19"
+42,ELK-B-2.11,"Kontaktör (140A) , 1 NO + 1 NC",Ad.,TL,"5,060.00"
+43,ELK-B-2.12,"Kontaktör (170A) , 1 NO + 1 NC",Ad.,TL,"6,314.00"
+44,ELK-B-2.13,"Kontaktör (205A) , 1 NO + 1 NC",Ad.,TL,"6,490.00"
+45,ELK-B-2.14,"Kontaktör (250A) , 1 NO + 1 NC",Ad.,TL,"9,781.43"
+46,ELK-B-2.15,Kompanzasyon kontaktörü 5 KVAR'a kadar,Ad.,TL,"1,100.00"
+47,ELK-B-2.16,Kompanzasyon kontaktörü 10 KVAR'a kadar,Ad.,TL,"1,250.00"
+48,ELK-B-2.17,Kompanzasyon kontaktörü 20 KVAR'a kadar,Ad.,TL,"1,540.00"
+49,ELK-B-2.18,"Kontaktör (40A) , 1 NO + 1 NC ( 4 kutuplu)",Ad.,TL,980.00
+50,ELK-B-2.19,"Kontaktör (63A) , 1 NO + 1 NC ( 4 kutuplu)",Ad.,TL,"2,000.00"
+51,ELK-B-2.20,"Kontaktör (85A) , 1 NO + 1 NC ( 4 kutuplu)",Ad.,TL,"2,800.00"
+52,ELK-B-2.21,"Kontaktör (110A) , 1 NO + 1 NC ( 4 kutuplu)",Ad.,TL,"2,557.33"
+53,ELK-B-2.22,"Kontaktör (140A) , 1 NO + 1 NC( 4 kutuplu)",Ad.,TL,"4,327.46"
+54,ELK-B-2.23,"Kontaktör (170A) , 1 NO + 1 NC( 4 kutuplu)",Ad.,TL,"5,390.00"
+55,ELK-B-2.24,"Kontaktör (205A) , 1 NO + 1 NC( 4 kutuplu)",Ad.,TL,"6,820.00"
+56,ELK-B-2.25,"Kontaktör (250A) , 1 NO + 1 NC( 4 kutuplu)",Ad.,TL,"9,600.00"
+57,ELK-B-2.26,Yardımcı kontaktör (2 NO + 2 NC),Ad.,TL,250.00
+58,ELK-B-2.27,Yardımcı kontak blogu,Ad.,TL,155.00
+59,ELK-B-3.1,Compact Şalter (100 A kadar),Ad.,TL,"2,000.00"
+60,ELK-B-3.2,Compact Şalter (125 A kadar),Ad.,TL,"2,106.35"
+61,ELK-B-3.3,Compact Şalter (160 A kadar),Ad.,TL,"2,420.00"
+62,ELK-B-3.4,Compact Şalter (200 A kadar),Ad.,TL,"3,900.00"
+63,ELK-B-3.5,Compact Şalter (250 A kadar),Ad.,TL,"4,400.00"
+64,ELK-B-3.6,Compact Şalter (400 A kadar),Ad.,TL,"7,370.00"
+65,ELK-B-3.7,Compact Şalter (500 A kadar),Ad.,TL,"8,900.00"
+66,ELK-B-3.8,Compact Şalter (630 A kadar),Ad.,TL,"9,215.15"
+67,ELK-B-3.9,Compact Şalter 4 Kutuplu 300 mA. (100A kadar),Ad.,TL,"10,383.12"
+68,ELK-B-3.10,Compact Şalter 4 Kutuplu 300 mA. (125A kadar),Ad.,TL,"8,060.58"
+69,ELK-B-3.11,Compact Şalter 4 Kutuplu 300 mA. (160A kadar),Ad.,TL,"8,238.13"
+70,ELK-B-3.12,Compact Şalter 4 Kutuplu 300 mA. (200A kadar),Ad.,TL,"11,552.50"
+71,ELK-B-3.13,Compact Şalter 4 Kutuplu 300 mA. (250A kadar),Ad.,TL,"11,652.72"
+72,ELK-B-3.14,Compact Şalter 4 Kutuplu 300 mA. (400A kad..ar),Ad.,TL,"19,859.04"
+73,ELK-B-3.15,Compact Şalter 4 Kutuplu 300 mA. (500A kad..ar),Ad.,TL,"21,707.28"
+74,ELK-B-3.16,Compact Şalter 4 Kutuplu 300 mA. (630A kad..ar),Ad.,TL,"22,521.70"
+75,ELK-B-3.17,Kaçak Akım Algılama bobini (120 cm iç çap dahil kapalı tip akım trafosu),Ad.,TL,"2,500.00"
+76,ELK-B-3.18,Vigirex Röle RH99M- 3UG4624 1C520 röle,Ad.,TL,"3,619.73"
+77,ELK-B-3.19,MX Açtırma Bobini (Kullanılan kompakt şaltere uygun),Ad.,TL,750.00
+78,ELK-B-4.1,ID 2 Kutup 30 mA 25-63'e kadar (Kaçak Akım),Ad.,TL,781.79
+79,ELK-B-4.2,ID 2 Kutup 30 mA -80 A ve üstü (Kaçak Akım),Ad.,TL,"1,938.12"
+80,ELK-B-4.3,ID 4 Kutup 30 mA 25- 63'e kadar (Kaçak Akım),Ad.,TL,"1,297.37"
+81,ELK-B-4.4,ID 4 Kutup 30 mA 63- 80'e kadar (Kaçak Akım),Ad.,TL,"2,885.70"
+82,ELK-B-4.5,ID 4 Kutup 30 mA 80-125'e kadar (Kaçak Akım),Ad.,TL,"7,665.21"
+83,ELK-B-4.6,ID 2 Kutup 300 mA 25-63'e kadar (Kaçak Akım),Ad.,TL,931.04
+84,ELK-B-4.7,ID 2 Kutup 300 mA -80 A ve üstü (Kaçak Akım),Ad.,TL,"1,664.16"
+85,ELK-B-4.8,ID 4 Kutup 300 mA 25- 63'e kadar (Kaçak Akım),Ad.,TL,"1,083.79"
+86,ELK-B-4.9,ID 4 Kutup 300 mA 63- 80'e kadar (Kaçak Akım),Ad.,TL,"2,168.24"
+87,ELK-B-4.10,ID 4 Kutup 300 mA 80-125'e kadar (Kaçak Akım),Ad.,TL,"6,367.84"
+88,ELK-B-4.11,ID 2 Kutup 30 mA 25-63'e kad..ar (SELEKTİF TİP Kaçak Akım),Ad.,TL,"1,817.12"
+89,ELK-B-4.12,ID 4 Kutup 30 mA 25- 63'e kad..ar (SELEKTİF TİP Kaçak Akım),Ad.,TL,"3,331.38"
+90,ELK-B-4.13,ID 2 Kutup 300 mA 25-63'e kad..ar (SELEKTRİF TİP Kaçak Akım),Ad.,TL,"1,817.12"
+91,ELK-B-4.14,ID 4 Kutup 300 mA 25- 63'e kad..ar (SELEKTİF TİP Kaçak Akım),Ad.,TL,"3,331.38"
+92,ELK-B-4.15,"ID 2 Kutup 30 mA 16-40 dahil (kaçak Akım ups cihazlarına uygun) - (Siemens SIQUENCE serisi tip B,K ups cihazlarına uygun)     ",Ad.,TL,"6,832.04"
+93,ELK-B-4.16,"ID 4 Kutup 30 mA 16- 40 dahil (Kaçak Akım ups cihazlarına uygun) - (Siemens SIQUENCE serisi tip B,K ups cihazlarına uygun)            ",Ad.,TL,"8,721.05"
+94,ELK-B-4.17,"ID 2 Kutup 300 mA 16-40 dahil (kaçak Akım ups cihazlarına uygun) - (Siemens SIQUENCE serisi tip B,K ups cihazlarına uygun)         ",Ad.,TL,"6,460.61"
+95,ELK-B-4.18,"ID 4 Kutup 300 mA 16- 40 dahil (kaçak Akım ups cihazlarına uygun) - (Siemens SIQUENCE serisi tip B,K ups cihazlarına uygun)          ",Ad.,TL,"7,984.31"
+96,ELK-B-5.1,1x6 A B tipi sigorta,Ad.,TL,77.65
+97,ELK-B-5.2,1x10-16 A B tipi sigorta,Ad.,TL,75.90
+98,ELK-B-5.3,1x6 A C tipi sigorta,Ad.,TL,82.00
+99,ELK-B-5.4,1x10-32 A'e kadar C tipi sigorta,Ad.,TL,82.00
+100,ELK-B-5.5,1x40 A C tipi sigorta,Ad.,TL,104.00
+101,ELK-B-5.6,1x50 A C tipi sigorta,Ad.,TL,141.90
+102,ELK-B-5.7,3x6-25 A'e kadar C tipisigorta,Ad.,TL,319.00
+103,ELK-B-5.8,3x32-40 A'e kadar C tipi sigorta,Ad.,TL,341.90
+104,ELK-B-5.9,3x50 A C tipi sigorta,Ad.,TL,429.00
+105,ELK-B-5.10,3x63 A C tipi sigorta,Ad.,TL,506.00
+106,ELK-B-5.11,3x80 A C tipi sigorta,Ad.,TL,"1,488.00"
+107,ELK-B-5.12,3x100 A C tipi sigorta,Ad.,TL,"1,610.00"
+108,ELK-B-5.13,3x125 A C tipi sigorta,Ad.,TL,"1,595.00"
+109,ELK-B-5.14,1x6A A B Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,121.00
+110,ELK-B-5.15,1x10-16 A B Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,141.90
+111,ELK-B-5.16,1x6-31 A C Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,161.70
+112,ELK-B-5.17,1x40 A C Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,185.90
+113,ELK-B-5.18,1x50 A C Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,235.40
+114,ELK-B-5.19,3x6-25 A C Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,326.70
+115,ELK-B-5.20,3x32-40 A C Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,495.00
+116,ELK-B-5.21,3x50 A C Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,546.70
+117,ELK-B-5.22,3x63 A C Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,649.00
+118,ELK-B-5.23,3x80 A C Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,"1,540.00"
+119,ELK-B-5.24,3x100 A C Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,"2,860.00"
+120,ELK-B-5.25,3x125 A C Tipi Nötr kesmeli Otomatik Sigorta,Ad.,TL,"3,100.00"
+121,ELK-B-5.26,"4 Kutuplu TT ve TN-S sistemleri için 3+1 devreli,Tip 2 C sınıfı Parafudr / 20kA",Ad.,TL,"2,420.00"
+122,ELK-B-5.27,"Termik Role 0,25-25 A'e kadar",Ad.,TL,650.00
+123,ELK-B-5.28,Termik Role 25-63 A'e kadar,Ad.,TL,"1,320.00"
+124,ELK-B-5.29,"Kontaktör üzerine montaj Termik Role 0,1-25 A'e kadar",Ad.,TL,590.00
+125,ELK-B-5.30,Kontaktör üzerine montaj Termik Role 25-45 A'e kadar,Ad.,TL,"1,067.00"
+126,ELK-B-5.31,"NH Bıçaklı Sig.Ayırıcıları KOMPLE 3x160 A' e kad..ar (buşon,kaide ve ayırcı plaka dahil.)",Ad.,TL,780.00
+127,ELK-B-5.32,"NH Bıçaklı Sig.Ayırıcıları KOMPLE 3x630 A' e kad..ar (buşon,kaide ve ayırcı plaka dahil.)",Ad.,TL,"2,492.30"
+128,ELK-B-5.33,NH Bıçaklı Sig.tüm boylar 630 A' e kad..ar,Ad.,TL,396.00
+129,ELK-B-6.1,Kompanzasyon Bataryası (Kuru tip) 1 Kvar,Ad.,TL,341.00
+130,ELK-B-6.2,"Kompanzasyon Bataryası (Kuru tip) 1,5 Kvar",Ad.,TL,360.00
+131,ELK-B-6.3,"Kompanzasyon Bataryası (Kuru tip) 2,5 Kvar",Ad.,TL,463.15
+132,ELK-B-6.4,Kompanzasyon Bataryası (Kuru tip) 5 Kvar,Ad.,TL,588.53
+133,ELK-B-6.5,Kompanzasyon Bataryası (Kuru tip) 10 Kvar,Ad.,TL,"1,070.30"
+134,ELK-B-6.6,Kompanzasyon Bataryası (Kuru tip) 20 Kvar,Ad.,TL,"2,200.00"
+135,ELK-B-6.7,RGSR-15S REAKTIF GUC KONTROL ROLESİ,Ad.,TL,"3,040.00"
+136,ELK-B-6.8,RGSR-20S REAKTIF GUC KONTROL ROLESİ,Ad.,TL,"3,600.00"
+137,ELK-B-6.9,DEŞARJ ÜNİTESİ DU-3,Ad.,TL,360.00
+138,ELK-B-6.10,602 002 Rapidus 606 000 serisi reaktif güç kontrol rölesi,Ad.,TL,"3,520.00"
+139,ELK-B-6.11,VARkombi-18-TFT Reaktif Güç Kontrol Rölesi,Ad.,TL,"4,470.98"
+140,ELK-B-6.12,MK-03 Faz Sıralamalı Motor Koruma Rölesi,Ad.,TL,297.00
+141,ELK-B-6.13,FR-02 Faz Sırası Rölesi,Ad.,TL,385.00
+142,ELK-B-6.14,Analog zaman saati (Rezervli),Ad.,TL,396.00
+143,ELK-B-6.15,ASTRONOMİK ZAMAN SAATİ 1 YILLIK DTR-20,Ad.,TL,950.00
+144,ELK-B-6.16,Darbe akım anahtarı,Ad.,TL,310.00
+145,ELK-B-6.17,GKRC 02 Gerilim kontrol rölesi,Ad.,TL,404.80
+146,ELK-B-6.18,MPR 47S Enerji analizörü,Ad.,TL,"2,840.00"
+147,ELK-B-6.19,MPR 53 S Şebeke Analizörü,Ad.,TL,"2,849.00"
+148,ELK-B-6.20,MPR-63-42 Şebeke Analizörü,Ad.,TL,"4,283.40"
+149,ELK-B-6.21,606 100 Klea serisi enerji analizörü,Ad.,TL,"3,100.00"
+150,ELK-B-6.22,Ethernet Gatewey 607 000 (Lisans ücreti dahil),Ad.,TL,"2,384.56"
+151,ELK-B-6.23,Ethernet modbus Gateway,Ad.,TL,"1,720.40"
+152,ELK-B-6.24,ANT-01 GPRS ANTENI,Ad.,TL,341.00
+153,ELK-B-6.25,SR05 E SONT REAKTOR SURUCU,Ad.,TL,"2,310.00"
+154,ELK-B-6.26,Akım Trafosu (10-250A)/5A Cl 0.5 10VA,Ad.,TL,203.14
+155,ELK-B-6.27,Monofaze Elektronik Sayaç 10-60 A - 220 V,Ad.,TL,440.00
+156,ELK-B-6.28,Trifaze Elektronik Sayaç 3x10/80 A ve x5 3x220/380 V,Ad.,TL,"1,077.22"
+157,ELK-B-6.29,İşaret lambası ( 500V),Ad.,TL,15.77
+158,ELK-B-6.30,"Kırmızı Kilitlemeli Mantar Butonu, 1 NC (Kutulu / kutusuz)",Ad.,TL,280.00
+159,ELK-B-7.1,"ENT.ERS3 400/0,25",Ad.,TL,"1,368.45"
+160,ELK-B-7.2,ENT.ERS3 400/0.5,Ad.,TL,"1,862.61"
+161,ELK-B-7.3,ENT.ERS3 400/1,Ad.,TL,"2,375.78"
+162,ELK-B-7.4,"ENT.ERS3 400/1,5",Ad.,TL,"2,780.00"
+163,ELK-B-7.5,ENT.ERS3 400/2,Ad.,TL,"3,500.00"
+164,ELK-B-7.6,"ENT.ERS3 400/2,5",Ad.,TL,"4,290.00"
+165,ELK-B-7.7,ENT.ERS3 400/3,Ad.,TL,"4,000.00"
+166,ELK-B-7.8,ENT.ERS3 400/5,Ad.,TL,"5,800.00"
+167,ELK-B-7.9,"ENT.ERS3 400/7,5",Ad.,TL,"7,200.00"
+168,ELK-B-7.10,ENT.ERS3 400/10,Ad.,TL,"9,790.00"
+169,ELK-B-7.11,ENT.ERS3 400/15,Ad.,TL,"13,200.00"
+170,ELK-B-8.1,"ENT.ERS1 230/0,25",Ad.,TL,715.15
+171,ELK-B-8.2,"ENT.ERS1 230/0,5",Ad.,TL,850.00
+172,ELK-B-8.3,ENT.ERS1 230/1,Ad.,TL,"1,640.00"
+173,ELK-B-8.4,"ENT.ERS1 230/1,5",Ad.,TL,"2,142.50"
+174,ELK-B-8.5,"ENT.ERS1 230/2,5",Ad.,TL,"3,410.00"
+175,ELK-B-9.1,630 VA İzalasyon trafosu 230 V - 230 V,Ad.,TL,"8,721.76"
+176,ELK-B-9.2,5 KVA Nötr Toprak Dönüştürücü İzalasyon Trafosu  220V  / 220V,Ad.,TL,"9,321.00"
+177,ELK-B-9.3,10 KVA Nötr Toprak Dönüştürücü İzalasyon Trafosu  220V  / 220V,Ad.,TL,"15,411.00"
+178,ELK-B-9.4,15 KVA Nötr Toprak Dönüştürücü İzalasyon Trafosu  220V  / 220V,Ad.,TL,"13,589.00"
+179,ELK-B-9.5,5 KVA Nötr Toprak Dönüştürücü İzalasyon Trafosu  400V  / 400V,Ad.,TL,"11,210.00"
+180,ELK-B-9.6,10 KVA Nötr Toprak Dönüştürücü İzalasyon Trafosu  400V  / 400V,Ad.,TL,"11,500.00"
+181,ELK-B-9.7,15 KVA Nötr Toprak Dönüştürücü İzalasyon Trafosu  400V  / 400V,Ad.,TL,"15,913.84"
+182,ELK-B-9.8,30 KVA Nötr Toprak Dönüştürücü İzalasyon Trafosu  400V  / 400V,Ad.,TL,"25,874.52"
+183,ELK-B-9.9,45 KVA Nötr Toprak Dönüştürücü İzalasyon Trafosu  400V  / 400V,Ad.,TL,"34,100.00"
+184,ELK-B-9.10,1 kV İzole Halı,m²,TL,292.93
+185,ELK-B-9.11,"Trifaze,Monofaze priz kombinasyonu (sigortalı 3x32A-1x25A) (Elektrik odasına monte edilecek 1 trifaze + 2 monofaze prizli)",Ad.,TL,753.24
+186,ELK-B-9.12,Mevcut ana dğıtım pano revizyonu,Ad.,TL,"1,885.72"
+187,ELK-B-9.13,Mevcut kat dağ./Ups/Mcc/ATM pano revizyonu,Ad.,TL,"1,500.00"
+188,ELK-C-1.1,10 mm2 kadar NYAF,mt.,TL,32.36
+189,ELK-C-1.2,16 mm2 Kadar NYAF,mt.,TL,49.00
+190,ELK-C-1.3,25 mm2 Kadar NYAF,mt.,TL,73.00
+191,ELK-C-1.4,35 mm2 Kadar NYAF,mt.,TL,98.00
+192,ELK-C-1.5,50 mm2 Kadar NYAF,mt.,TL,141.90
+193,ELK-C-1.6,70 mm2 Kadar NYAF,mt.,TL,197.00
+194,ELK-C-2.1,10 mm2 kadar 07Z1-K,mt.,TL,32.33
+195,ELK-C-2.2,16 mm2 Kadar HO7Z,mt.,TL,48.52
+196,ELK-C-2.3,25 mm2 Kadar H07Z,mt.,TL,75.90
+197,ELK-C-2.4,35 mm2 kadar H07Z1-K,mt.,TL,98.00
+198,ELK-C-2.5,50 mm2 kadar H07Z1-K,mt.,TL,141.90
+199,ELK-C-2.6,70 mm2 kadar H07Z1-K,mt.,TL,197.00
+200,ELK-C-3.1,"3x1,5 NYY Besleme Hattı",mt.,TL,23.55
+201,ELK-C-3.2,"3x2,5 NYY Besleme Hattı",mt.,TL,33.77
+202,ELK-C-3.3,3x4 NYY Besleme Hattı,mt.,TL,48.21
+203,ELK-C-3.4,3x6 NYY Besleme Hattı,mt.,TL,66.11
+204,ELK-C-3.5,"4x1,5 NYY Besleme Hattı",mt.,TL,28.99
+205,ELK-C-3.6,"4x2,5 NYY Besleme Hattı",mt.,TL,40.22
+206,ELK-C-3.7,4x4 NYY Besleme Hattı,mt.,TL,61.24
+207,ELK-C-3.8,4x6 NYY Besleme Hattı,mt.,TL,79.21
+208,ELK-C-3.9,4x10 NYY Besleme Hattı,mt.,TL,143.00
+209,ELK-C-3.10,4x16 NYY Besleme Hattı,mt.,TL,207.90
+210,ELK-C-3.11,"5x2,5 NYY Besleme Hattı",mt.,TL,48.86
+211,ELK-C-3.12,5x4 NYY Besleme Hattı,mt.,TL,76.48
+212,ELK-C-3.13,5x6 NYY Besleme Hattı,mt.,TL,102.00
+213,ELK-C-3.14,5x10 NYY Besleme Hattı,mt.,TL,176.00
+214,ELK-C-3.15,5x16 NYY Besleme Hattı,mt.,TL,264.00
+215,ELK-C-3.16,3x16+10 NYY Besleme Hattı,mt.,TL,204.42
+216,ELK-C-3.17,3x25+16 NYY Besleme Hattı,mt.,TL,310.00
+217,ELK-C-3.18,3x35+16 NYY Besleme Hattı,mt.,TL,400.00
+218,ELK-C-3.19,3x50+25 NYY Besleme Hattı,mt.,TL,495.00
+219,ELK-C-3.20,3x70+35 NYY Besleme Hattı,mt.,TL,662.20
+220,ELK-C-3.21,3x95+50 NYY Besleme Hattı,mt.,TL,892.10
+221,ELK-C-3.22,3x120+70 NYY Besleme Hattı,mt.,TL,"1,206.70"
+222,ELK-C-3.23,3x150+70 NYY Besleme Hattı,mt.,TL,"1,350.00"
+223,ELK-C-3.24,3x185+90 NYY Besleme Hattı,mt.,TL,"1,760.00"
+224,ELK-C-3.25,7x2.5 NYY Jeneratör kumanda kablosu,mt.,TL,75.00
+225,ELK-C-4.1,"3x1,5 N2XH Besleme Hattı",mt.,TL,29.55
+226,ELK-C-4.2,"3x2,5 N2XH Besleme Hattı",mt.,TL,39.27
+227,ELK-C-4.3,3x4 N2XH Besleme Hattı,mt.,TL,53.03
+228,ELK-C-4.4,3x6 N2XH Besleme Hattı,mt.,TL,71.72
+229,ELK-C-4.5,"4x1,5 N2XH Besleme Hattı",mt.,TL,36.00
+230,ELK-C-4.6,"4x2,5 N2XH Besleme Hattı",mt.,TL,48.36
+231,ELK-C-4.7,4x4 N2XH Besleme Hattı,mt.,TL,67.38
+232,ELK-C-4.8,4x6 N2XH Besleme Hattı,mt.,TL,87.13
+233,ELK-C-4.9,4x10 N2XH Besleme Hattı,mt.,TL,143.00
+234,ELK-C-4.10,4x16 N2XH Besleme Hattı,mt.,TL,207.90
+235,ELK-C-4.11,"5x2,5 N2XH Besleme Hattı",mt.,TL,63.10
+236,ELK-C-4.12,5x4 N2XH Besleme Hattı,mt.,TL,89.10
+237,ELK-C-4.13,5x6 N2XH Besleme Hattı,mt.,TL,112.20
+238,ELK-C-4.14,5x10 N2XH Besleme Hattı,mt.,TL,176.00
+239,ELK-C-4.15,5x16 N2XH Besleme Hattı,mt.,TL,264.00
+240,ELK-C-4.16,3x16+10 N2XH Besleme Hattı,mt.,TL,231.43
+241,ELK-C-4.17,3x25+16 N2XH Besleme Hattı,mt.,TL,341.00
+242,ELK-C-4.18,3x35+16 N2XH Besleme Hattı,mt.,TL,401.50
+243,ELK-C-4.19,3x50+25 N2XH Besleme Hattı,mt.,TL,495.00
+244,ELK-C-4.20,3x70+35 N2XH Besleme Hattı,mt.,TL,662.20
+245,ELK-C-4.21,3x95+50 N2XH Besleme Hattı,mt.,TL,892.10
+246,ELK-C-4.22,3x120+70 N2XH Besleme Hattı,mt.,TL,"1,206.70"
+247,ELK-C-4.23,3x150+70 N2XH Besleme Hattı,mt.,TL,"1,485.00"
+248,ELK-C-4.24,3x185+90 N2XH Besleme Hattı,mt.,TL,"1,760.00"
+249,ELK-C-4.25,7x2.5 N2XH Jeneratör kumanda kablosu,mt.,TL,82.30
+250,ELK-C-5.1,"3x1,5 NYM Besleme Hattı",mt.,TL,20.40
+251,ELK-C-5.2,"3x2,5 NYM Besleme Hattı",mt.,TL,31.49
+252,ELK-C-5.3,3x4 NYM Besleme Hattı,mt.,TL,44.82
+253,ELK-C-5.4,3x6 NYM Besleme Hattı,mt.,TL,65.20
+254,ELK-C-5.5,"4x1,5 NYM Besleme Hattı",mt.,TL,24.77
+255,ELK-C-5.6,"4x2,5 NYM Besleme Hattı",mt.,TL,38.52
+256,ELK-C-5.7,4x4 NYM Besleme Hattı,mt.,TL,59.27
+257,ELK-C-5.8,4x6 NYM Besleme Hattı,mt.,TL,79.21
+258,ELK-C-5.9,4x10 NYM Besleme Hattı,mt.,TL,143.00
+259,ELK-C-5.10,4x16 NYM Besleme Hattı,mt.,TL,207.90
+260,ELK-C-5.11,"5x2,5 NYM Besleme Hattı",mt.,TL,50.60
+261,ELK-C-5.12,5x4 NYM Besleme Hattı,mt.,TL,76.11
+262,ELK-C-5.13,5x6 NYM Besleme Hattı,mt.,TL,110.00
+263,ELK-C-5.14,5x10 NYM Besleme Hattı,mt.,TL,176.00
+264,ELK-C-5.15,5x16 NYM Besleme Hattı,mt.,TL,264.00
+265,ELK-C-6.1,"2x1,5 NHXMH Besleme Hattı",mt.,TL,17.75
+266,ELK-C-6.2,"3x1,5 NHXMH Besleme Hattı",mt.,TL,23.86
+267,ELK-C-6.3,"3x2,5 NHXMH Besleme Hattı",mt.,TL,35.03
+268,ELK-C-6.4,3x4 NHXMH Besleme Hattı,mt.,TL,48.21
+269,ELK-C-6.5,3x6 NHXMH Besleme Hattı,mt.,TL,65.20
+270,ELK-C-6.6,"4x1,5 NHXMH Besleme Hattı",mt.,TL,30.00
+271,ELK-C-6.7,"4x2,5 NHXMH Besleme Hattı",mt.,TL,40.00
+272,ELK-C-6.8,4x4 NHXMH Besleme Hattı,mt.,TL,61.25
+273,ELK-C-6.9,4x6 NHXMH Besleme Hattı,mt.,TL,87.13
+274,ELK-C-6.10,4x10 NHXMH Besleme Hattı,mt.,TL,143.00
+275,ELK-C-6.11,4x16 NHXMH Besleme Hattı,mt.,TL,207.90
+276,ELK-C-6.12,"5x2,5 NHXMH Besleme Hattı",mt.,TL,50.00
+277,ELK-C-6.13,5x4 NHXMH Besleme Hattı,mt.,TL,77.00
+278,ELK-C-6.14,5x6 NHXMH Besleme Hattı,mt.,TL,102.00
+279,ELK-C-6.15,5x10 NHXMH Besleme Hattı,mt.,TL,176.00
+280,ELK-C-6.16,5x16 NHXMH Besleme Hattı,mt.,TL,264.00
+281,ELK-C-7.1,"3x0,75 NYMHY Besleme Hattı",mt.,TL,11.53
+282,ELK-C-7.2,"2x1,5 NYMHY Besleme Hattı",mt.,TL,15.00
+283,ELK-C-7.3,"3x1,5 NYMHY Besleme Hattı",mt.,TL,20.63
+284,ELK-C-7.4,"3x2,5 NYMHY Besleme Hattı",mt.,TL,32.71
+285,ELK-C-7.5,"4x1,5 NYMHY Besleme Hattı",mt.,TL,26.40
+286,ELK-C-7.6,"4x2,5 NYMHY Besleme Hattı",mt.,TL,39.60
+287,ELK-C-7.7,4x4 NYMHY Besleme Hattı,mt.,TL,59.00
+288,ELK-C-7.8,4X6 NYMHY Besleme Hattı,mt.,TL,79.21
+289,ELK-C-7.9,4x10 NYMHY Besleme Hattı,mt.,TL,143.00
+290,ELK-C-7.10,4x16 NYMHY Besleme Hattı,mt.,TL,207.90
+291,ELK-C-7.11,"5x2,5 NHXMH Besleme Hattı",mt.,TL,50.00
+292,ELK-C-7.12,5x4 NYMHY Besleme Hattı,mt.,TL,77.41
+293,ELK-C-7.13,5x6 NYMHY Besleme Hattı,mt.,TL,102.00
+294,ELK-C-7.14,5x10 NYMHY Besleme Hattı,mt.,TL,176.00
+295,ELK-C-8.1,"3x0,75 052XZ1 Besleme Hattı",mt.,TL,13.80
+296,ELK-C-8.2,"3x1,5 052XZ1 Besleme Hattı",mt.,TL,24.54
+297,ELK-C-8.3,"3x2,5 052XZ1 Besleme Hattı",mt.,TL,33.16
+298,ELK-C-8.4,"4x1,5 052XZ1 Besleme Hattı",mt.,TL,29.88
+299,ELK-C-8.5,"4x2,5 052XZ1 Besleme Hattı",mt.,TL,41.19
+300,ELK-C-8.6,4x4 052XZ1/NHSLH Besleme Hattı,mt.,TL,61.25
+301,ELK-C-8.7,4X6 052XZ1/NHSLH Besleme Hattı,mt.,TL,87.13
+302,ELK-C-8.8,4x10 052XZ1/NHSLH Besleme Hattı,mt.,TL,143.00
+303,ELK-C-8.9,4x16 052XZ1/NHSLH Besleme Hattı,mt.,TL,187.23
+304,ELK-C-8.10,"5x2,5 052XZ1/NHSLH Besleme Hattı",mt.,TL,53.08
+305,ELK-C-8.11,5x4 052XZ1/NHSLH Besleme Hattı,mt.,TL,81.00
+306,ELK-C-8.12,5x6 052XZ1/NHSLH Besleme Hattı,mt.,TL,112.20
+307,ELK-C-8.13,5x10 052XZ1/NHSLH Besleme Hattı,mt.,TL,176.00
+308,ELK-C-9.1,4x10 NYFGBY Besleme Hattı,mt.,TL,172.23
+309,ELK-C-9.2,4x16 NYFGBY Besleme Hattı,mt.,TL,235.00
+310,ELK-C-9.3,3x25+16 NYFGBY Besleme Hattı,mt.,TL,326.70
+311,ELK-C-9.4,3x50+25 NYFGBY Besleme Hattı,mt.,TL,531.30
+312,ELK-C-9.5,3x35+16 NYFGBY Besleme Hattı,mt.,TL,422.40
+313,ELK-C-9.6,3X70+35 NYFGBY Besleme Hattı,mt.,TL,710.00
+314,ELK-C-9.7,3x90+50 NYFGBY Besleme Hattı,mt.,TL,920.00
+315,ELK-C-9.8,3x120+70 NYFGBY Besleme Hattı,mt.,TL,"1,122.00"
+316,ELK-C-9.9,3x150+70 NYFGBY Besleme Hattı,mt.,TL,"1,423.40"
+317,ELK-C-9.10,3x185+90 NYFGBY Besleme Hattı,mt.,TL,"1,804.00"
+318,ELK-D-1.1,4X10mm2 Ek muf,Ad.,TL,232.00
+319,ELK-D-1.2,4X16mm2 Ek muf,Ad.,TL,300.00
+320,ELK-D-1.3,3X25/16mm2 Ek muf,Ad.,TL,310.00
+321,ELK-D-1.4,3X35/16mm2 Ek muf,Ad.,TL,264.00
+322,ELK-D-1.5,3X50/25mm2 Ek muf,Ad.,TL,210.00
+323,ELK-E-1.1,35 mm2 Kadar çıplak örgülü bakır tel,mt.,TL,140.00
+324,ELK-E-1.2,50 mm MONO Bakır iletken,mt.,TL,174.64
+325,ELK-E-1.3,50 mm2 Kadar çıplak örgülü bakır tel,mt.,TL,197.38
+326,ELK-E-1.4,70 mm2 Kadar çıplak örgülü bakır tel,mt.,TL,258.39
+327,ELK-E-1.5,CU-Topraklama Çubuğu- 18 mm 150cm som bakır,Ad.,TL,"1,188.00"
+328,ELK-E-1.6,Galvaniz Topraklama Çubuğu 5mm 150cm,Ad.,TL,456.00
+329,ELK-E-1.7,"30x35 sıcak daldırma galvaniz şerit lama. İlgili kesitte ve sıcak daldırma galvaniz olarak 2'li, 3'lü,4'lü iletken baglantı aparatları,her 2 metrede 1 adet inşaat demirine sabitleme aparatı dahil.",mt.,TL,81.40
+330,ELK-E-1.8,TEK AYRAÇLI EŞ POTANSİYEL BARA KAİDELİ TİP (BAKIR 50X5X500mm) Şeffaf plexiglass kapaklı,Ad.,TL,937.00
+331,ELK-E-1.9,Emo topraklama raporu alınması,Ad.,TL,"2,000.00"
+332,ELK-E-1.10,Cadweld kaynak,Ad.,TL,344.35
+333,ELK-F-1.1,Güvenlik hatlı Anahtarsız Normal Sorti (Etanj / Ankastra),Ad.,TL,675.52
+334,ELK-F-1.2,Güvenlik hatlı Anahtarlı Normal Sorti (Etanj / Ankastra),Ad.,TL,718.19
+335,ELK-F-1.3,Güvenlik hatlı Anahtarsız Komitatör Sorti (Etanj / Ankastra),Ad.,TL,727.71
+336,ELK-F-1.4,Güvenlik hatlı Anahtarlı Komitatör               Sorti  (Etanj / Ankastra) - (ETANJ / ANKASTRA SORTİ NYMHY - NYM kablo ile),Ad.,TL,776.22
+337,ELK-F-1.5,Güvenlik hatlı Anahtarsız Parelel Sorti (Etanj / Ankastra),Ad.,TL,247.50
+338,ELK-F-1.6,Güvenlik hatlı Anahtarsız Vavien Sorti (Etanj / Ankastra),Ad.,TL,772.11
+339,ELK-F-1.7,Güvenlik hatlı Anahtarlı Vavien                   Sorti  (Etanj / Ankastra) - (ETANJ / ANKASTRA SORTİ NYMHY - NYM kablo ile),Ad.,TL,754.27
+340,ELK-F-1.8,Güvenlik hatlı Priz Sorti (Etanj / Ankastra),Ad.,TL,675.52
+341,ELK-F-1.9,Güvenlik hatlı Paralel Priz Sorti (Etanj / Ankastra),Ad.,TL,326.83
+342,ELK-F-2.1,Güvenlik hatlı Anahtarsız Normal Sorti (Etanj / Ankastra),Ad.,TL,669.85
+343,ELK-F-2.2,Güvenlik hatlı Anahtarlı Normal Sorti (Etanj / Ankastra),Ad.,TL,736.80
+344,ELK-F-2.3,Güvenlik hatlı Anahtarsız Komitatör Sorti (Etanj / Ankastra),Ad.,TL,772.78
+345,ELK-F-2.4,Güvenlik hatlı Anahtarlı Komitatör               Sorti  (Etanj / Ankastra) - (HF ETANJ / ANKASTRA SORTİ   (N)HXMH ( HF NYM) kablo ile),Ad.,TL,785.15
+346,ELK-F-2.5,Güvenlik hatlı Anahtarsız Parelel Sorti (Etanj / Ankastra),Ad.,TL,255.00
+347,ELK-F-2.6,Güvenlik hatlı Anahtarsız Vavien Sorti (Etanj / Ankastra),Ad.,TL,724.50
+348,ELK-F-2.7,Güvenlik hatlı Anahtarlı Vavien                   Sorti  (Etanj / Ankastra) - (HF ETANJ / ANKASTRA SORTİ   (N)HXMH ( HF NYM) kablo ile),Ad.,TL,791.65
+349,ELK-F-2.8,Güvenlik hatlı Priz Sorti (Etanj / Ankastra),Ad.,TL,637.56
+350,ELK-F-2.9,Güvenlik hatlı Paralel Priz Sorti (Etanj / Ankastra),Ad.,TL,318.52
+351,ELK-G-3.2,Q20 ye kadar yanmaz sipral boru,mt.,TL,8.00
+352,ELK-G-3.3,Q26 yanmaz sipral boru,mt.,TL,9.90
+353,ELK-G-3.4,0 14 mm PVC kılıflı galvaniz çelik spiral boru,mt.,TL,15.65
+354,ELK-G-3.5,0 18 mm PVC kılıflı galvaniz çelik spiral boru,mt.,TL,19.46
+355,ELK-G-3.6,0 26 mm PVC kılıflı galvaniz çelik spiral boru,mt.,TL,27.50
+356,ELK-G-3.7,0 42 mm PVC kılıflı galvaniz çelik spiral boru,mt.,TL,42.90
+357,ELK-G-3.8,0 16 mm PVC ipek yanmaz boru,mt.,TL,8.80
+358,ELK-G-3.9,0 18 mm RİJİT boru,mt.,TL,19.00
+359,ELK-G-3.10,0 18 mm PVC Kangal boru,mt.,TL,9.00
+360,ELK-G-3.11,0 26 mm PVC Kangal boru,mt.,TL,12.00
+361,ELK-G-3.12,0 36 mm PVC Kangal boru,mt.,TL,29.84
+362,ELK-G-4.1,12x12 mm PVC Kablo Kanalı (Montajlı Komple),mt.,TL,7.34
+363,ELK-G-4.2,16x16 mm PVC Kablo Kanalı (Montajlı Komple),mt.,TL,10.86
+364,ELK-G-4.3,25x16 mm PVC Kablo Kanalı (Montajlı Komple),mt.,TL,15.00
+365,ELK-G-4.4,25x40 mm PVC Kablo Kanalı (Montajlı Komple),mt.,TL,31.00
+366,ELK-G-4.5,60x40 mm PVC Kablo Kanalı (Montajlı Komple),mt.,TL,45.10
+367,ELK-G-4.6,100x60 mm PVC Kablo Kanalı (Montajlı Komple),mt.,TL,104.74
+368,ELK-G-4.7,Balık Sırtı Kanal 50x13,mt.,TL,40.00
+369,ELK-G-4.8,Balık Sırtı Kanal 75x18,mt.,TL,71.50
+370,ELK-G-4.9,Balık Sırtı Kanal 90x20,mt.,TL,88.63
+371,ELK-H-1.2,Etanj Nemli yer 1x36 W Montajı ve Ampul dahil,Ad.,TL,329.40
+372,ELK-H-1.3,Etanj Nemli yer 2x36 W Montajı ve Ampul dahil,Ad.,TL,362.34
+373,ELK-H-1.4,Etanj Led tüp armatür 60 cm Montajı ve Philips-Osram marka Ampul dahil,Ad.,TL,531.55
+374,ELK-H-1.5,Etanj Led tüp armatür 120 cm Montajı ve Philips-Osram marka Ampul dahil,Ad.,TL,671.00
+375,ELK-H-1.6,2*18 W Downlight armatür Montaj ve Ampul dahil,Ad.,TL,523.94
+376,ELK-H-1.7,"18 W Led Downlight armatür Montaj dahil (6"" - 8"" ölçüsünde 3000 K - 4000 ışık şiddetinde,gömme tip difüzörlü,gövde rengi beyaz)",Ad.,TL,601.34
+377,ELK-H-1.8,it,Ad.,TL,565.10
+378,ELK-H-1.9,"26 W Led Downlight armatür Montaj dahil (8"" ölçüsünde 3000 K - 4000 ışık şiddetinde,gömme tip difüzörlü,gövde rengi beyaz)",Ad.,TL,690.00
+379,ELK-H-1.10,50W Led projetktör 3000 - 4000K IP67,Ad.,TL,"1,389.96"
+380,ELK-H-1.11,100W Led projetktör 3000 - 4000K IP67,Ad.,TL,"1,665.00"
+381,ELK-H-1.12,150W Led projetktör 3000 - 4000K IP67,Ad.,TL,"2,400.00"
+382,ELK-H-1.13,Led projöktör ayagı ankaraj malzemesi dahil (2 metre),Ad.,TL,"1,014.00"
+383,ELK-H-1.14,Led projöktör ayagı ankaraj malzemesi dahil (3 metre),Ad.,TL,"1,320.00"
+384,ELK-H-1.15,Led projöktör ayagı ankaraj malzemesi dahil (4 metre),Ad.,TL,"1,524.00"
+385,ELK-H-1.16,1X18 W J113 anahtarlı Armatür Ayna Üstü Montajı ve Ampul dahil,Ad.,TL,223.92
+386,ELK-H-1.17,1X28 W J128 anahtarlı Armatür Ayna Üstü Montajı ve Ampul dahil,Ad.,TL,265.65
+387,ELK-H-1.18,2*E27 CODE: 2104 Gondol serisi Merdiven Apliği,Ad.,TL,388.80
+388,ELK-H-1.19,Gizli ışık Ledbar slim 60 Ad. / m 15 W 3000K driver dahil Eloksal - Opal (Temin ve montaj dahil),mt.,TL,864.55
+389,ELK-H-1.20,4-80W starter,Ad.,TL,17.40
+390,ELK-H-1.21,Std. Flouresant ampul 18/36 W,Ad.,TL,26.78
+391,ELK-H-1.22,PL 2 pinli ampul 10/13/26 W,Ad.,TL,34.76
+392,ELK-H-1.23,PL 4 pinli ampul 18/24 W,Ad.,TL,55.00
+393,ELK-H-1.24,1x18W-36W balans elektronik,Ad.,TL,84.00
+394,ELK-H-1.25,2x18W-36W balans elektronik,Ad.,TL,81.79
+395,ELK-H-1.26,3x18W - 4x18W balans elektronik,Ad.,TL,209.23
+396,ELK-H-1.27,"Led trafosu 220 / 12 V 12 A. Kad..ar, dış mekan IP 67",Ad.,TL,624.00
+397,ELK-H-1.28,"Led trafosu 220 / 12 V 20 A. Kad..ar, dış mekan IP 67",Ad.,TL,690.00
+398,ELK-H-1.29,Banka tarafından verilen armatür montajları (Metal - Alçıpan tavan),Ad.,TL,48.00
+399,ELK-H-1.30,Banka tarafından verilen armatür montajları (Downlight),Ad.,TL,85.00
+400,ELK-H-1.31,Banka tarafından verilen armatür montajları (Lineer),Ad.,TL,100.00
+401,ELK-H-1.32,Banka tarafından verilen armatür montajları (Lineer - Sarkıt),Ad.,TL,108.00
+402,ELK-H-1.33,Banka tarafından verilen armatür montajları (Ray spot + ray),Ad.,TL,108.00
+403,ELK-H-1.34,Banko çekmece buton bağlantısı ve para kontrol lamba bağlantısı (paralel olarak bağlanacak),Ad.,TL,85.00
+404,ELK-H-1.35,Mevcut Armatür demontajı,Ad.,TL,34.89
+405,ELK-I-1.2,4'lü Pimli Ups prizi,Ad.,TL,107.80
+406,ELK-I-1.3,3'lü Şebeke Grup Priz,Ad.,TL,68.00
+407,ELK-I-1.4,3'lü Şebeke Grup Priz 3MT Uzatma kablolu,Ad.,TL,121.00
+408,ELK-I-1.5,4'lü Şebeke Grup Priz,Ad.,TL,79.20
+409,ELK-I-1.6,4'lü Şebeke Grup Priz 3MT Uzatma kablolu,Ad.,TL,148.50
+410,ELK-I-1.7,6'lü Şebeke Grup Priz,Ad.,TL,115.50
+411,ELK-I-2.1,Normal Anahtar,Ad.,TL,65.52
+412,ELK-I-2.2,Komitatör Anahtar,Ad.,TL,73.30
+413,ELK-I-2.3,Topraklı priz,Ad.,TL,72.83
+414,ELK-I-2.4,Topraklı ups priz,Ad.,TL,79.02
+415,ELK-I-2.5,Liht anahtar,Ad.,TL,69.04
+416,ELK-I-2.6,RJ 11 telefon prizi,Ad.,TL,84.58
+417,ELK-I-2.7,RJ 45 data prizi,Ad.,TL,123.20
+418,ELK-I-2.8,Sıva üstü Anahtar,Ad.,TL,84.00
+419,ELK-I-2.9,Sıva üstü Komitatör Anahtar,Ad.,TL,96.80
+420,ELK-I-2.10,Sıva üstü Topraklı priz,Ad.,TL,88.00
+421,ELK-I-2.11,Topraklı erkek fiş,Ad.,TL,28.80
+422,ELK-I-2.12,TV Prizi,Ad.,TL,95.00
+423,ELK-I-2.13,Kapaklı topraklı priz,Ad.,TL,87.96
+424,ELK-I-2.14,Zil,Ad.,TL,88.00
+425,ELK-I-2.15,Zil trafosu,Ad.,TL,88.00
+426,ELK-I-2.16,Merdiven otomatigi,Ad.,TL,127.33
+427,ELK-I-2.17,2li Çerçeve,Ad.,TL,35.00
+428,ELK-I-2.18,3lü Çerçeve,Ad.,TL,40.33
+429,ELK-I-2.19,4lü Çerçeve,Ad.,TL,47.55
+430,ELK-I-2.20,"8 MODUL PUP-UP SATINE CELIK (KAPAK ,BUAT VE MONTAJ KAİDESİ DAHİL)",Ad.,TL,"1,589.81"
+431,ELK-I-2.21,POP-UP İÇİN TOPRAKLI TİP ŞEBEKE PRİZ,Ad.,TL,107.31
+432,ELK-I-2.22,POP-UP İÇİN TÜRK TİPİ UPS PRİZ,Ad.,TL,107.31
+433,ELK-I-2.23,POP-UP İÇİN DATA PRİZİ,Ad.,TL,148.50
+434,ELK-I-2.24,NORMAL ANAHTAR,Ad.,TL,78.00
+435,ELK-I-2.25,KOMİTATÖR ANAHTAR,Ad.,TL,81.00
+436,ELK-I-2.26,LİGHT ANAHTAR,Ad.,TL,76.88
+437,ELK-I-2.27,KAPAKLI TOPRAKLI PRİZ,Ad.,TL,97.00
+438,ELK-I-2.28,2li ÇERÇEVE,Ad.,TL,41.00
+439,ELK-I-2.29,3lü ÇERÇEVE,Ad.,TL,56.10
+440,ELK-I-2.30,4lü ÇERÇEVE,Ad.,TL,67.10
+441,ELK-I-2.31,BÜROTİK PRİZ ÇERÇEVESİ 8 modül (Boş),Ad.,TL,143.00
+442,ELK-I-2.32,BÜROTİK PRİZ ÇERÇEVESİ 12 modül (Boş),Ad.,TL,181.50
+443,ELK-I-2.33,BÜROTİK PRİZ ÇERÇEVESİ 18 modül (Boş),Ad.,TL,235.40
+444,ELK-I-2.34,BÜROTİK MASA ÜSTÜ PRİZ ÇERÇEVESİ FIRÇALI TİP (Boş),Ad.,TL,671.00
+445,ELK-I-2.35,BÜROTİK PRİZ (Toplantı masası 15 modül için),Ad.,TL,733.19
+446,ELK-I-2.36,BÜROTİK TOPRAKLI PRİZ (Çocuk kilitli),Ad.,TL,95.70
+447,ELK-I-2.37,BÜROTİK TÜRK TİPİ UPS PRİZ,Ad.,TL,96.80
+448,ELK-I-2.38,BÜROTİK İNGİLİZ UPS PRİZİ,Ad.,TL,97.90
+449,ELK-I-2.39,BÜROTİK DATA PRİZİ,Ad.,TL,184.80
+450,ELK-J-1.1,30 cm 3 gözlü döşeme kanalı (metre fiyatına ek parçası ve kırım işçiliği dahil),mt.,USD,19.85
+451,ELK-J-1.2,Ayarlı Tip döşeme buatı (38x38),Ad.,USD,23.25
+452,ELK-J-1.3,Priz kutusu çerçevesi ve kapağı (38x38),Ad.,USD,25.00
+453,ELK-J-1.4,Ayarlı Tip döşeme buatı (30x30),Ad.,USD,25.90
+454,ELK-J-1.5,Priz kutusu çerçevesi ve kapağı (30x30),Ad.,USD,25.00
+455,ELK-J-1.6,DOSEME ALTI GROMMET BUAT (Şap modül dahil),Ad.,TL,869.00
+456,ELK-J-2.1,"Elektro Galvaniz Kab.Tavası 10 Cm Montajlı 
+(Askı+ek+dönüş,çelik dübel,ekcivatası,çelik somun,tij Vb. dahil)",mt.,USD,10.00
+457,ELK-J-2.2,"Elektro Galvaniz Kab.Tavası 20 Cm Montajlı 
+(Askı+ek+dönüş,çelik dübel,ekcivatası,çelik somun,tij Vb. dahil)",mt.,USD,12.61
+458,ELK-J-2.3,"Elektro Galvaniz Kab.Tavası 30 Cm Montajlı 
+(Askı+ek+dönüş,çelik dübel,ekcivatası,çelik somun,tij Vb. dahil)",mt.,USD,23.06
+459,ELK-J-2.4,"Elektro Galvaniz Kab. Tavası 40 Cm Montajlı 
+(Askı+ek+dönüş,çelik dübel,ekcivatası,çelik somun,tij Vb. dahil)",mt.,USD,23.06
+460,ELK-J-2.5,"Elektro Galvaniz Kab. Tavası 50 Cm Montajlı 
+(Askı+ek+dönüş,çelik dübel,ekcivatası,çelik somun,tij Vb. dahil)",mt.,USD,26.00
+461,ELK-J-2.6,Elektro Galvaniz Kab.Tavası Kapağı 10 Cm (Tüm montaj malzemesi dahil),mt.,USD,4.50
+462,ELK-J-2.7,Elektro Galvaniz Kab.Tavası Kapağı 20 Cm (Tüm montaj malzemesi dahil),mt.,USD,6.98
+463,ELK-J-2.8,Elektro Galvaniz Kab.Tavası Kapağı 30 Cm (Tüm montaj malzemesi dahil),mt.,USD,12.30
+464,ELK-J-2.9,Elektro Galvaniz Kab.Tavası Kapağı 40 Cm (Tüm montaj malzemesi dahil),mt.,USD,15.51
+465,ELK-J-2.10,Elektro Galvaniz Kab.Tavası Kapağı 50 Cm (Tüm montaj malzemesi dahil),mt.,USD,18.64
+466,ELK-J-2.11,Bölücü seperatör,mt.,USD,3.13
+467,ELK-J-3.1,Kablo merdiveni 100 mm (Tüm montaj malzemesi dahil),mt.,USD,11.00
+468,ELK-J-3.2,Kablo merdiveni 200 mm (Tüm montaj malzemesi dahil),mt.,USD,13.00
+469,ELK-J-3.3,Kablo merdiveni 300 mm (Tüm montaj malzemesi dahil),mt.,USD,18.00
+470,ELK-J-3.4,Kablo merdiveni 400 mm (Tüm montaj malzemesi dahil),mt.,USD,22.92
+471,ELK-J-3.5,Kablo merdiveni 500 mm (Tüm montaj malzemesi dahil),mt.,USD,25.33
+472,ELK-J-3.6,Masa altı Kablo düzenleyici,Ad.,TL,243.10
+473,ELK-K-1.2,"Güvenlik Sortisi   (Siren,P.I.R Dedektör,Manyetik kontak,Panik buton,darbe,sualgılama sensörü, para tuzagı, keypad)  8x0.22 LIYCY veya  3x0.75 LIYCY Kablo ile",Ad.,TL,410.00
+474,ELK-K-1.3,8x0.22 LIYCY Kablo,mt.,TL,20.90
+475,ELK-K-1.4,3x0.75 LIYCY Kablo,mt.,TL,17.60
+476,ELK-K-1.5,FCOMPOZITE RG6/U4+2x0.50+2x0.75mm2 Kablo,mt.,TL,31.00
+477,ELK-K-1.6,"4x2x0,22 LIYCY Güvenlik Kablosu  ",mt.,TL,13.28
+478,ELK-K-1.7,"4x0,50 LIYCY     Güvenlik Kablosu  ",mt.,TL,16.87
+479,ELK-K-1.8,"4x1,5 LIYCY     Güvenlik Kablosu  ",mt.,TL,26.68
+480,ELK-K-1.9,RG 59 U6 Anten ve Kamera kablosu,mt.,TL,15.30
+481,ELK-K-2.1,Güvenlik Sortisi,Ad.,TL,451.00
+482,ELK-K-2.2,8x0.22 LIHCH Kablo HF,mt.,TL,25.00
+483,ELK-K-2.3,"2x1,50 LIHCH Kablo HF Güvenlik kablosu",mt.,TL,18.54
+484,ELK-K-2.4,3x0.75 LIHCH Kablo HF,mt.,TL,23.42
+485,ELK-K-2.5,"3x2x0,22 LIHCH Kablo HF Güvenlik kablosu",mt.,TL,24.06
+486,ELK-K-2.6,"4x0,50 LIHCH Kablo HF Güvenlik kablosu",mt.,TL,18.56
+487,ELK-K-2.7,"4x1,5 LIHCH Kablo HF Güvenlik kablosu",mt.,TL,38.50
+488,ELK-K-2.8,FCOMPOZITE RG6/U4+2x0.50+2x0.75mm2 HFFR Kablo,mt.,TL,25.20
+489,ELK-K-2.9,RG 6 U6 HF Anten kablosu HF,mt.,TL,17.54
+490,ELK-K-2.10,"Yangın sortisi   (dahili/harici siren, dedektör, buton)    2x2x0,8 J-H (st) HBd-red HF",Ad.,TL,410.00
+491,ELK-K-2.11,"Yangın sortisi   (dahili/harici siren, dedektör, buton)    2x2x0,8 J-H (st) HBd-red FE 180 HF",mt.,TL,468.60
+492,ELK-K-2.12,"2x2x0,8 J-H (st) HBd-red Yangın Kablosu  HF",mt.,TL,16.50
+493,ELK-K-2.13,"2x2x0,8 J-H (st) H Bd- FE-180 Yangın Kablosu  HF",mt.,TL,21.00
+494,ELK-L-1.2,"Telefon kutusu 100Ç, modul catısı ile birlikte",Ad.,TL,356.83
+495,ELK-L-1.3,"Telefon kutusu 50Ç, modul catısı ile birlikte",Ad.,TL,235.50
+496,ELK-L-1.4,"Telefon kutusu 20Ç, modul catısı ile birlikte",Ad.,TL,165.67
+497,ELK-L-1.5,10'lu kesmeli Krone modül,Ad.,TL,79.00
+498,ELK-L-1.6,"2 Ç Kalaylı telefon kab.0,50",mt.,TL,8.10
+499,ELK-L-1.7,"3 Ç Kalaylı telefon kab.0,50",mt.,TL,10.30
+500,ELK-L-1.8,"4 Ç Kalaylı telefon kab.0,50",mt.,TL,13.60
+501,ELK-L-1.9,"10 Ç Kalaylı telefon kab.0,50",mt.,TL,27.78
+502,ELK-L-1.10,"20 Ç Kalaylı telefon kab.0,50",mt.,TL,50.46
+503,ELK-L-1.11,"30 Ç Kalaylı telefon kab.0,50",mt.,TL,70.63
+504,ELK-L-1.12,"50 Ç Kalaylı telefon kab.0,50",mt.,TL,107.95
+505,ELK-L-1.13,"10x2x0,50 Harici Telefon kablosu",mt.,TL,39.31
+506,ELK-L-1.14,"20x2x0,50 Harici Telefon kablosu",mt.,TL,60.71
+507,ELK-L-1.15,"30x2x0,50 Harici Telefon Kablosu",mt.,TL,82.34
+508,ELK-L-1.16,"50x2x0,50 Harici Telefon Kablosu",mt.,TL,103.63
+509,ELK-L-1.17,"100x2x0,50 Harici Telefon Kablosu",mt.,TL,231.33
+510,ELK-L-1.18,"150x2x0,50 Harici Telefon Kablosu",mt.,TL,346.50
+511,ELK-L-2.1,"2 Ç Kalaylı telefon kab.0,50 (HBH)",mt.,TL,8.91
+512,ELK-L-2.2,"3 Ç Kalaylı telefon kab.0,50 (HBH)",mt.,TL,10.30
+513,ELK-L-2.3,"4 Ç Kalaylı telefon kab.0,50 (HBH)",mt.,TL,13.60
+514,ELK-L-2.4,"10 Ç Kalaylı telefon kab.0,50 (HBH)",mt.,TL,27.78
+515,ELK-L-2.5,"20 Ç Kalaylı telefon kab.0,50 (HBH)",mt.,TL,52.96
+516,ELK-L-2.6,"30 Ç Kalaylı telefon kab.0,50 (HBH)",mt.,TL,77.21
+517,ELK-L-2.7,"50 Ç Kalaylı telefon kab.0,50 (HBH)",mt.,TL,133.20
+518,ELK-M-1.2,Cat 6 data kablosu,mt.,TL,21.25
+519,ELK-N-1.2,Hoparlör sortisi,Ad.,TL,338.25
+520,ELK-N-1.3,Hoparlör 5 W,Ad.,USD,24.15
+521,ELK-N-1.4,Volüm kontrol sorti,Ad.,TL,310.00
+522,ELK-N-1.5,20 W ses potansiyometresi(Bap),Ad.,USD,66.89
+523,ELK-N-1.6,40 W Bölgesel ses potansiyometresi(Bap),Ad.,USD,66.89
+524,ELK-O-1.1,Türkiye Genelinde Elektrik kurumları Abonelik Hizmetleri İş Takip bedeli,Ad.,TL,"3,000.00"
+525,ELK-O-1.2,Türkiye Genelinde Belediyelerde ve Akomda kazı ruhsatı çıkartılması vb. Hizmetleri İş Takip bedeli,Ad.,TL,"5,000.00"
+526,ELK-O-1.3,Elektrik sayaçları mühür fekki işlemleri,Ad.,TL,"1,500.00"
+527,ELK-O-1.4,Elektrik Sözleşme İptal İşlemleri ( Özel - İstanbul İl sınırları içinde geçerlidir. ),Ad.,TL,"1,500.00"
+528,ELK-O-1.5,Elektrik güç artırım işlemleri talep gücü 30 kw.a kadar ( Özel - İstanbul İl sınırları içinde geçerlidir. ),Ad.,TL,"7,500.00"
+529,ELK-O-1.6,Elektrik güç artırım işlemleri talep gücü 50 kw.a kadar ( Özel - İstanbul İl sınırları içinde geçerlidir. ),Ad.,TL,"8,410.00"
+530,ELK-O-1.7,Elektrik güç artırım işlemleri talep gücü 75 kw.a kadar ( Özel - İstanbul İl sınırları içinde geçerlidir. ),Ad.,TL,"9,251.00"
+531,ELK-O-1.8,Elektrik güç artırım işlemleri talep gücü 100 kw.a kadar ( Özel - İstanbul İl sınırları içinde geçerlidir. ),Ad.,TL,"10,254.00"
+532,ELK-O-1.9,Elektrik güç artırım işlemleri talep gücü 150 kw.a kadar ( Özel - İstanbul İl sınırları içinde geçerlidir. ),Ad.,TL,"12,500.00"
+533,ELK-O-1.10,Elektrik güç artırım işlemleri talep gücü 250 kw.a kadar ( Özel - İstanbul İl sınırları içinde geçerlidir. ),Ad.,TL,"14,000.00"
+534,ELK-O-1.11,Atm kabini iptali(Asimetrik kabin-dükkan tipi-toplu kabin gece / gündüz çalışması dahil),Ad.,TL,"2,240.00"
+535,ELK-O-1.12,"Atm kabini iptali(Avm - Bina içi, gece / gündüz çalışması dahil)",Ad.,TL,"2,240.00"
+536,ELK-O-1.13,Şantiye enerjisi temin işleri,Ad.,TL,"9,350.00"
+537,ELK-O-1.14,Masa elk. Hat. Demontajı ve mon.,Ad.,TL,78.56
+538,ELK-O-1.15,Renovasyon şube elk. Altyapı çalışmaları,Ad.,TL,"3,920.00"
+539,ELK-O-1.16,Revizyon işleri,Saat,TL,95.00
+540,ELK-P-1.2,"Sıvaüstü,sürekli yanan,1 saat akülü,1*8 W ampullü,tek yüzlü",Ad.,TL,508.86
+541,ELK-P-1.3,"Sıvaüstü,sürekli yanan,1 saat akülü,2*8 W ampullü,çift yüzlü",Ad.,TL,540.66
+542,ELK-P-1.4,"Sıvaaltı,sürekli yanan,1 saat akülü,1*8 W ampullü,tek yüzlü",Ad.,TL,548.63
+543,ELK-P-1.5,"Sıvaaltı,sürekli yanan,1 saat akülü,2*8 W ampullü,çift yüzlü",Ad.,TL,570.81
+544,ELK-P-1.6,"18 W,26 W,36 W balast+acil kit",Ad.,TL,640.00
+545,ELK-P-1.7,Acil durum aydınlatma armatürü AEA 21 (3 saat),Ad.,TL,"2,124.60"
+546,ELK-P-1.8,Sıva altı kaçış yolu aydınlatması GINE CRE (3 saat),Ad.,TL,"1,227.71"
+547,ELK-R-1.1,ASİMETRİK KABİN/KİOSK REKLAM TABELASI IŞIK BANT LED UYGULAMA (LED VE TRAFO HARİÇ),Ad.,TL,"2,000.00"
+548,ELK-R-1.2,ASİMETRİK KABİN /KİOSK ve DÜKKAN TİPİ ÖN YÜZ LED UYGULAMA (LED VE TRAFO HARİÇ),Ad.,TL,954.00
+549,ELK-R-1.3,ASİMETRİK KABİN/KİOSK POSTER PANO LED UYGULAMA (LED VE TRAFO HARİÇ),Ad.,TL,682.50
+550,ELK-R-1.4,ASİMETRİK KABİN/KİOSK ÖNÜ TAVAN LED UYGULAMA (LED VE TRAFO HARİÇ),Ad.,TL,650.00
+551,ELK-R-1.5,ASİMETRİK KABİN/KİOSK REKLAM TABELASI LOGO/HARF LED UYGULAMA (LED VE TRAFO HARİÇ),Pkt,TL,"1,995.00"
+552,ELK-R-1.6,ASİMETRİK KABİN/KİOSK LED UYGULAMA KOMPLE,Pkt,TL,"3,330.00"
+553,ELK-R-1.7,DÜKKAN TİPİ LED UYGULAMA -KOMPLE (LED VE TRAFO HARİÇ),Pkt,TL,"2,045.65"
+554,ELK-R-1.8,İBB TİPİ LED UYGULAMA-KOMPLE (LED VE TRAFO HARİÇ),Pkt,TL,"1,650.00"
+555,ELK-R-1.9,DÜKKAN TİPİ REKLAM PANOSU LED UYGULAMA (LED VE TRAFO HARİÇ),Ad.,TL,"1,275.00"
+556,ELK-R-1.10,İBB TİPİ REKLAM PANOSU LED UYGULAMA (LED VE TRAFO HARİÇ),Ad.,TL,"1,042.50"
+557,ELK-R-1.11,ASİMETRİK KABİN /KİOSK ve DÜKKAN TİPİ LED KANALINDA KULLANILAN PLEKSİ (LED VE TRAFO HARİÇ),mtül,TL,105.00
+558,ELK-R-1.12,AVM TİPİ LED UYGULAMA-KOMPLE (LED VE TRAFO HARİÇ),Ad.,TL,"1,363.78"
+559,İŞÇ-1,Düz İşçi Yevmiyesi,Ad.,TL,541.31
+560,İŞÇ-2,"Düz İşçi Fazla Mesaisi ( ÖBF-24 / 8 x 1,5 )",Ad.,TL,101.50
+561,İŞÇ-3,Usta Yevmiyesi,Ad.,TL,695.97
+562,İŞÇ-4,"Usta Fazla Mesaisi ( ÖBF-26 / 8 x 1,5 )",Ad.,TL,130.49
+563,İŞÇ-5,İstanbul Dışı Nakliye Bedeli,Km,TL,9.75
+564,İŞÇ-6,Konaklama Bedeli,Ad.,TL,500.00
+565,İNŞ-J-7,Servis Ücreti ,Ad.,TL,600.00
